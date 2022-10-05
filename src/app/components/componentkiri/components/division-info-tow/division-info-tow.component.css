@@ -1,0 +1,19 @@
+body {
+  height: 800px;
+  background-image: url("https://allegra.flowersetcfresno.com/pic/899934_full-fondos-de-pantalla-pc-hd-mandala-%E1%90%88-hd-wallpaper-1080p-stock-wallpapers-royalty-free-hd-wallpaper.jpg");
+  background-size: cover;
+  background-size: 25rem;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.exampleone {
+  background-color: rgb(240, 209, 255);
+  color: rgb(7, 7, 7);
+}
+
+.exampletwo {
+  background-color: rgb(248, 247, 248);
+  color: rgb(5, 5, 5);
+}

@@ -1,0 +1,19 @@
+.site-footer {
+  background-color: rgba(170, 13, 197, 0.85);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px);
+}
+
+#footer {
+  color: rgb(255, 255, 255);
+  background: rgb(173, 38, 251);
+}
+
+.exampleone {
+  background-color: rgb(141, 26, 207);
+  color: rgb(251, 251, 251);
+}
+
+.footercolor {
+  color: rgb(7, 7, 7);
+}
